@@ -1,214 +1,4 @@
-# Ratio and Proportion - Practice Questions
-
-This section contains 60 practice questions based on:
-
-* Ratio
-* Simplification of Ratios
-* Equivalent Ratios
-* Division in a Given Ratio
-* Proportion
-* Fourth Proportional
-* Mean Proportional
-* Direct Proportion
-* Inverse Proportion
-* Combined Ratios
-* Ratio-Based Word Problems
-
----
-
-# Part 1: Normal Practice Questions
-
 ## Question 1
-
-Simplify the ratio:
-
-24 : 36
-
----
-
-## Question 2
-
-Find the ratio of:
-
-2.5 kg : 500 g
-
----
-
-## Question 3
-
-Convert the ratio 3 : 5 into percentages.
-
----
-
-## Question 4
-
-The ratio of boys to girls in a class is 3 : 5. If the total number of students is 64, find the number of boys and girls.
-
----
-
-## Question 5
-
-Divide ₹840 between A and B in the ratio 3 : 4.
-
----
-
-## Question 6
-
-The ratio of two numbers is 5 : 7 and their sum is 144. Find the numbers.
-
----
-
-## Question 7
-
-The ratio of two numbers is 4 : 9 and their difference is 35. Find the numbers.
-
----
-
-## Question 8
-
-If A : B = 3 : 4 and B : C = 2 : 5, find A : B : C.
-
----
-
-## Question 9
-
-If A : B = 5 : 6 and B : C = 3 : 7, find A : B : C.
-
----
-
-## Question 10
-
-Find the fourth proportional to 4, 8 and 12.
-
----
-
-## Question 11
-
-Find the mean proportional between 9 and 16.
-
----
-
-## Question 12
-
-Find the value of x:
-
-3 : 5 = x : 25
-
----
-
-## Question 13
-
-Find the value of x:
-
-7 : 14 = 15 : x
-
----
-
-## Question 14
-
-If 5 notebooks cost ₹150, what is the cost of 8 notebooks?
-
----
-
-## Question 15
-
-If 12 workers can complete a job in 15 days, how many days will 20 workers take to complete the same job?
-
----
-
-## Question 16
-
-A car travels 180 km in 3 hours. How far will it travel in 5 hours at the same speed?
-
----
-
-## Question 17
-
-8 machines produce 400 units in one day. How many units will 12 machines produce in one day?
-
----
-
-## Question 18
-
-15 men can complete a work in 24 days. How many men are required to complete the same work in 18 days?
-
----
-
-## Question 19
-
-The ratio of the ages of A and B is 4 : 5. If the sum of their ages is 54 years, find their ages.
-
----
-
-## Question 20
-
-The ratio of the ages of A and B is 3 : 7. If the difference between their ages is 20 years, find their ages.
-
----
-
-## Question 21
-
-The ratio of income to expenditure of a person is 5 : 4. If the income is ₹45,000, find the expenditure and savings.
-
----
-
-## Question 22
-
-A sum of ₹2,400 is divided among A, B and C in the ratio 2 : 3 : 5. Find their individual shares.
-
----
-
-## Question 23
-
-The ratio of red balls to blue balls is 4 : 7. If there are 44 balls in total, find the number of red and blue balls.
-
----
-
-## Question 24
-
-Two numbers are in the ratio 7 : 9. If 8 is added to both numbers, the ratio becomes 3 : 4. Find the original numbers.
-
----
-
-## Question 25
-
-The ratio of two numbers is 3 : 5. If 12 is subtracted from both numbers, the ratio becomes 1 : 2. Find the original numbers.
-
----
-
-## Question 26
-
-If the cost of 8 pens is ₹120, what is the cost of 15 pens?
-
----
-
-## Question 27
-
-A train travelling at a constant speed covers 240 km in 4 hours. How much distance will it cover in 7 hours?
-
----
-
-## Question 28
-
-If 18 workers can complete a work in 20 days, how many workers are required to complete it in 15 days?
-
----
-
-## Question 29
-
-A recipe for 6 people requires 450 grams of flour. How much flour is required for 10 people?
-
----
-
-## Question 30
-
-The ratio of milk to water in a mixture is 7 : 3. If the total quantity of the mixture is 50 litres, find the quantity of milk and water.
-
----
-
-# Part 2: Multiple Choice Questions
-
-## Question 31
 
 Simplify the ratio 48 : 60.
 
@@ -219,7 +9,7 @@ Simplify the ratio 48 : 60.
 
 ---
 
-## Question 32
+## Question 2
 
 Find the ratio of 3 hours to 45 minutes.
 
@@ -230,7 +20,7 @@ Find the ratio of 3 hours to 45 minutes.
 
 ---
 
-## Question 33
+## Question 3
 
 The ratio of two numbers is 4 : 7. If their sum is 99, find the smaller number.
 
@@ -241,7 +31,7 @@ The ratio of two numbers is 4 : 7. If their sum is 99, find the smaller number.
 
 ---
 
-## Question 34
+## Question 4
 
 The ratio of two numbers is 5 : 8. If their difference is 27, find the larger number.
 
@@ -252,7 +42,7 @@ The ratio of two numbers is 5 : 8. If their difference is 27, find the larger nu
 
 ---
 
-## Question 35
+## Question 5
 
 Divide ₹1,200 between A and B in the ratio 5 : 7. What is A's share?
 
@@ -263,7 +53,7 @@ Divide ₹1,200 between A and B in the ratio 5 : 7. What is A's share?
 
 ---
 
-## Question 36
+## Question 6
 
 If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C.
 
@@ -274,7 +64,7 @@ If A : B = 2 : 3 and B : C = 4 : 5, find A : B : C.
 
 ---
 
-## Question 37
+## Question 7
 
 If A : B = 3 : 5 and B : C = 10 : 7, find A : B : C.
 
@@ -285,7 +75,7 @@ If A : B = 3 : 5 and B : C = 10 : 7, find A : B : C.
 
 ---
 
-## Question 38
+## Question 8
 
 Find the fourth proportional to 3, 9 and 12.
 
@@ -296,7 +86,7 @@ Find the fourth proportional to 3, 9 and 12.
 
 ---
 
-## Question 39
+## Question 9
 
 Find the mean proportional between 4 and 25.
 
@@ -307,7 +97,7 @@ Find the mean proportional between 4 and 25.
 
 ---
 
-## Question 40
+## Question 10
 
 Find x:
 
@@ -320,7 +110,7 @@ Find x:
 
 ---
 
-## Question 41
+## Question 11
 
 If 6 notebooks cost ₹90, what is the cost of 14 notebooks?
 
@@ -331,7 +121,7 @@ If 6 notebooks cost ₹90, what is the cost of 14 notebooks?
 
 ---
 
-## Question 42
+## Question 12
 
 If 8 workers can complete a job in 15 days, how many days will 12 workers take?
 
@@ -342,7 +132,7 @@ If 8 workers can complete a job in 15 days, how many days will 12 workers take?
 
 ---
 
-## Question 43
+## Question 13
 
 12 machines produce 600 units in one day. How many units will 20 machines produce in one day?
 
@@ -353,7 +143,7 @@ If 8 workers can complete a job in 15 days, how many days will 12 workers take?
 
 ---
 
-## Question 44
+## Question 14
 
 If 15 men complete a work in 20 days, how many men are required to complete the work in 12 days?
 
@@ -364,7 +154,7 @@ If 15 men complete a work in 20 days, how many men are required to complete the 
 
 ---
 
-## Question 45
+## Question 15
 
 The ratio of boys to girls in a class is 7 : 5. If there are 84 boys, how many girls are there?
 
@@ -375,7 +165,7 @@ The ratio of boys to girls in a class is 7 : 5. If there are 84 boys, how many g
 
 ---
 
-## Question 46
+## Question 16
 
 The ratio of the ages of A and B is 4 : 7. If their difference is 18 years, find the age of B.
 
@@ -386,7 +176,7 @@ The ratio of the ages of A and B is 4 : 7. If their difference is 18 years, find
 
 ---
 
-## Question 47
+## Question 17
 
 The ratio of income to expenditure of a person is 7 : 5. If the income is ₹42,000, find the savings.
 
@@ -397,7 +187,7 @@ The ratio of income to expenditure of a person is 7 : 5. If the income is ₹42,
 
 ---
 
-## Question 48
+## Question 18
 
 A sum of ₹3,600 is divided among A, B and C in the ratio 2 : 3 : 4. Find B's share.
 
@@ -408,7 +198,7 @@ A sum of ₹3,600 is divided among A, B and C in the ratio 2 : 3 : 4. Find B's s
 
 ---
 
-## Question 49
+## Question 19
 
 The ratio of milk to water in a mixture is 5 : 3. If the mixture contains 24 litres of water, what is the total quantity of the mixture?
 
@@ -419,7 +209,7 @@ The ratio of milk to water in a mixture is 5 : 3. If the mixture contains 24 lit
 
 ---
 
-## Question 50
+## Question 20
 
 Two numbers are in the ratio 3 : 5. If 10 is added to both numbers, the ratio becomes 2 : 3. Find the smaller number.
 
@@ -430,7 +220,7 @@ Two numbers are in the ratio 3 : 5. If 10 is added to both numbers, the ratio be
 
 ---
 
-## Question 51
+## Question 21
 
 Two numbers are in the ratio 5 : 8. If 6 is subtracted from both numbers, the ratio becomes 1 : 2. Find the smaller number.
 
@@ -441,7 +231,7 @@ Two numbers are in the ratio 5 : 8. If 6 is subtracted from both numbers, the ra
 
 ---
 
-## Question 52
+## Question 22
 
 If 12 men or 18 women can complete a work in 20 days, find the ratio of efficiency of a man to a woman.
 
@@ -452,7 +242,7 @@ If 12 men or 18 women can complete a work in 20 days, find the ratio of efficien
 
 ---
 
-## Question 53
+## Question 23
 
 The ratio of A's salary to B's salary is 4 : 5. If A's salary increases by 25%, the ratio becomes 1 : 1. What was the original ratio?
 
@@ -463,7 +253,7 @@ The ratio of A's salary to B's salary is 4 : 5. If A's salary increases by 25%, 
 
 ---
 
-## Question 54
+## Question 24
 
 If x : y = 3 : 4 and y : z = 8 : 5, find x : y : z.
 
@@ -474,7 +264,7 @@ If x : y = 3 : 4 and y : z = 8 : 5, find x : y : z.
 
 ---
 
-## Question 55
+## Question 25
 
 A sum is divided among A, B and C in the ratio 2 : 5 : 3. If C receives ₹900, find the total sum.
 
@@ -485,7 +275,7 @@ A sum is divided among A, B and C in the ratio 2 : 5 : 3. If C receives ₹900, 
 
 ---
 
-## Question 56
+## Question 26
 
 If 5 machines can produce 1,000 units in 8 hours, how many units can 8 machines produce in 10 hours?
 
@@ -496,7 +286,7 @@ If 5 machines can produce 1,000 units in 8 hours, how many units can 8 machines 
 
 ---
 
-## Question 57
+## Question 27
 
 The ratio of two numbers is 2 : 3. If 10% of the first number is equal to 8% of the second number, which statement is correct?
 
@@ -507,7 +297,7 @@ The ratio of two numbers is 2 : 3. If 10% of the first number is equal to 8% of 
 
 ---
 
-## Question 58
+## Question 28
 
 If 10 workers can complete a work in 24 days, and after 6 days 2 workers leave, in how many more days will the remaining work be completed?
 
@@ -518,7 +308,7 @@ If 10 workers can complete a work in 24 days, and after 6 days 2 workers leave, 
 
 ---
 
-## Question 59
+## Question 29
 
 A car travels a certain distance at 60 km/h in 5 hours. To cover the same distance in 4 hours, what speed is required?
 
@@ -529,7 +319,7 @@ A car travels a certain distance at 60 km/h in 5 hours. To cover the same distan
 
 ---
 
-## Question 60
+## Question 30
 
 The ratio of two numbers is 3 : 4. If their product is 1,728, find the larger number.
 
