@@ -1,4 +1,3 @@
-# Unit 1 – Part 2: Ratio and Proportion
 
 ## 1. What is a Ratio
 
