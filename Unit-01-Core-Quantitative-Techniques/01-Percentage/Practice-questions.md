@@ -1,199 +1,6 @@
 # Percentage - Practice Questions
 
-This section contains 60 practice questions based on different percentage concepts.
-
-The questions are divided into two parts:
-
-* Questions 1–30: Normal Practice Questions
-* Questions 31–60: Multiple Choice Questions
-
----
-
-# Part 1: Normal Practice Questions
-
 ## Question 1
-
-Find 15% of 600.
-
----
-
-## Question 2
-
-Find 25% of 840.
-
----
-
-## Question 3
-
-Find 12.5% of 480.
-
----
-
-## Question 4
-
-Find 35% of 800.
-
----
-
-## Question 5
-
-Convert 0.625 into a percentage.
-
----
-
-## Question 6
-
-Convert 37.5% into a fraction.
-
----
-
-## Question 7
-
-A student scored 84 marks out of 120. Find the percentage obtained.
-
----
-
-## Question 8
-
-Out of 500 employees, 325 are male. Find the percentage of female employees.
-
----
-
-## Question 9
-
-20% of a number is 40. Find 35% of the same number.
-
----
-
-## Question 10
-
-If 75% of a number is 180, find 40% of the same number.
-
----
-
-## Question 11
-
-If 40% of a number is 48, find 75% of the same number.
-
----
-
-## Question 12
-
-A number is 20% more than another number. If the smaller number is 250, find the larger number.
-
----
-
-## Question 13
-
-A number is decreased by 25% and becomes 150. Find the original number.
-
----
-
-## Question 14
-
-After a 20% increase, the value of a number becomes 360. Find the original number.
-
----
-
-## Question 15
-
-After a 25% decrease, the value of a number becomes 450. Find the original number.
-
----
-
-## Question 16
-
-The population of a town is 80,000. If 35% of the population are children, find the number of adults.
-
----
-
-## Question 17
-
-A student answered 72 questions correctly out of 90 questions. Find the percentage of correct answers.
-
----
-
-## Question 18
-
-Out of 2,000 products manufactured, 150 products are defective. Find the percentage of defective products.
-
----
-
-## Question 19
-
-The price of a product increases from ₹800 to ₹1,000. Find the percentage increase.
-
----
-
-## Question 20
-
-The price of a product decreases from ₹1,500 to ₹1,200. Find the percentage decrease.
-
----
-
-## Question 21
-
-A salary increases from ₹40,000 to ₹46,000. Find the percentage increase.
-
----
-
-## Question 22
-
-The population of a city decreases from 90,000 to 81,000. Find the percentage decrease.
-
----
-
-## Question 23
-
-A number is increased by 20% and then decreased by 20%. Find the overall percentage change.
-
----
-
-## Question 24
-
-A number is increased by 25% and then decreased by 20%. Find the overall percentage change.
-
----
-
-## Question 25
-
-A number is decreased by 20% and then increased by 25%. Find the overall percentage change.
-
----
-
-## Question 26
-
-The price of a product is increased by 10% and then increased again by 20%. Find the overall percentage increase.
-
----
-
-## Question 27
-
-The price of a product is decreased by 10% and then increased by 20%. Find the overall percentage change.
-
----
-
-## Question 28
-
-A shopkeeper increases the price of sugar by 25%. By what percentage should a family reduce its consumption to maintain the same expenditure?
-
----
-
-## Question 29
-
-A person spends 80% of his income. If his income increases by 25% and expenditure increases by 20%, find the percentage increase in his savings.
-
----
-
-## Question 30
-
-A student needs 40% marks to pass an examination. He scored 220 marks and failed by 20 marks. Find the maximum marks.
-
----
-
-# Part 2: Multiple Choice Questions
-
-## Question 31
 
 20% of a number is 12. Find 35% of the same number.
 
@@ -204,7 +11,7 @@ A student needs 40% marks to pass an examination. He scored 220 marks and failed
 
 ---
 
-## Question 32
+## Question 2
 
 30% of a number is 21. What percent of the number is 49?
 
@@ -215,7 +22,7 @@ A student needs 40% marks to pass an examination. He scored 220 marks and failed
 
 ---
 
-## Question 33
+## Question 3
 
 Find 112% of a number if 20% of the number is 120.
 
@@ -226,7 +33,7 @@ Find 112% of a number if 20% of the number is 120.
 
 ---
 
-## Question 34
+## Question 4
 
 A is 25% more than B. By what percent is B smaller than A?
 
@@ -237,7 +44,7 @@ A is 25% more than B. By what percent is B smaller than A?
 
 ---
 
-## Question 35
+## Question 5
 
 A is 25% of B, B is 50% of C, and C is 120% of 25. Find the value of A.
 
@@ -248,7 +55,7 @@ A is 25% of B, B is 50% of C, and C is 120% of 25. Find the value of A.
 
 ---
 
-## Question 36
+## Question 6
 
 40% of a number A is equal to 50% of a number B. Find the ratio A : B.
 
@@ -259,7 +66,7 @@ A is 25% of B, B is 50% of C, and C is 120% of 25. Find the value of A.
 
 ---
 
-## Question 37
+## Question 7
 
 If the weight of a person increases by 20% per month, find his weight after 2 months in terms of his current weight.
 
@@ -270,7 +77,7 @@ If the weight of a person increases by 20% per month, find his weight after 2 mo
 
 ---
 
-## Question 38
+## Question 8
 
 105% of a number is x. Find 42% of the number in terms of x.
 
@@ -281,7 +88,7 @@ If the weight of a person increases by 20% per month, find his weight after 2 mo
 
 ---
 
-## Question 39
+## Question 9
 
 If 33.33% of a number is 20 more than 16.66% of the same number, find 120% of the number.
 
@@ -292,7 +99,7 @@ If 33.33% of a number is 20 more than 16.66% of the same number, find 120% of th
 
 ---
 
-## Question 40
+## Question 10
 
 10 times a number A is 20% more than another number B. Find the ratio A : B.
 
@@ -303,7 +110,7 @@ If 33.33% of a number is 20 more than 16.66% of the same number, find 120% of th
 
 ---
 
-## Question 41
+## Question 11
 
 Find 20% of 33.33% of 60% of 900.
 
@@ -314,7 +121,7 @@ Find 20% of 33.33% of 60% of 900.
 
 ---
 
-## Question 42
+## Question 12
 
 20% of a number is equal to 16.66% of another number. Find the ratio of the first number to the second number.
 
@@ -325,7 +132,7 @@ Find 20% of 33.33% of 60% of 900.
 
 ---
 
-## Question 43
+## Question 13
 
 20% of a number is 20 more than 20% of another number, which is 20. Find the number.
 
@@ -336,7 +143,7 @@ Find 20% of 33.33% of 60% of 900.
 
 ---
 
-## Question 44
+## Question 14
 
 40% of a number is 40 more than 40% of another number, which is 40. Find the number.
 
@@ -347,7 +154,7 @@ Find 20% of 33.33% of 60% of 900.
 
 ---
 
-## Question 45
+## Question 15
 
 What is half of 25% of 11% of the 20th multiple of 11?
 
@@ -358,7 +165,7 @@ What is half of 25% of 11% of the 20th multiple of 11?
 
 ---
 
-## Question 46
+## Question 16
 
 Find 20% of 25% of 10% of 5% of 50% of 15% of 3000.
 
@@ -369,7 +176,7 @@ Find 20% of 25% of 10% of 5% of 50% of 15% of 3000.
 
 ---
 
-## Question 47
+## Question 17
 
 A shopkeeper increases the price of sugar by 25%. By how much should a family decrease its consumption to maintain the same expenditure?
 
@@ -380,7 +187,7 @@ A shopkeeper increases the price of sugar by 25%. By how much should a family de
 
 ---
 
-## Question 48
+## Question 18
 
 The final value after a number is reduced to 25% of itself three times is 31. Find the original number.
 
@@ -391,7 +198,7 @@ The final value after a number is reduced to 25% of itself three times is 31. Fi
 
 ---
 
-## Question 49
+## Question 19
 
 Solve for x:
 
@@ -404,7 +211,7 @@ x = 20% of 12% of 120% of 6250.
 
 ---
 
-## Question 50
+## Question 20
 
 What is 12% more than 20% less than 40% of 250?
 
@@ -415,7 +222,7 @@ What is 12% more than 20% less than 40% of 250?
 
 ---
 
-## Question 51
+## Question 21
 
 A number is increased by 30% and then decreased by 30%. Find the overall percentage change.
 
@@ -426,7 +233,7 @@ A number is increased by 30% and then decreased by 30%. Find the overall percent
 
 ---
 
-## Question 52
+## Question 22
 
 The price of a product is reduced by 20%. By what percentage should the reduced price be increased to return to the original price?
 
@@ -437,7 +244,7 @@ The price of a product is reduced by 20%. By what percentage should the reduced 
 
 ---
 
-## Question 53
+## Question 23
 
 A man's salary is increased by 10% and then by 15%. Find the total percentage increase.
 
@@ -448,7 +255,7 @@ A man's salary is increased by 10% and then by 15%. Find the total percentage in
 
 ---
 
-## Question 54
+## Question 24
 
 A number is increased by 25% and then increased by 20%. Find the overall percentage increase.
 
@@ -459,7 +266,7 @@ A number is increased by 25% and then increased by 20%. Find the overall percent
 
 ---
 
-## Question 55
+## Question 25
 
 The price of a product is first decreased by 10% and then increased by 20%. Find the overall percentage change.
 
@@ -470,7 +277,7 @@ The price of a product is first decreased by 10% and then increased by 20%. Find
 
 ---
 
-## Question 56
+## Question 26
 
 A shopkeeper gives two successive discounts of 20% and 10%. Find the equivalent single discount.
 
@@ -481,7 +288,7 @@ A shopkeeper gives two successive discounts of 20% and 10%. Find the equivalent 
 
 ---
 
-## Question 57
+## Question 27
 
 The population of a city increases by 10% every year. If the current population is 1,00,000, what will be the population after 2 years?
 
@@ -492,7 +299,7 @@ The population of a city increases by 10% every year. If the current population 
 
 ---
 
-## Question 58
+## Question 28
 
 If A is 40% less than B, then B is what percent more than A?
 
@@ -503,7 +310,7 @@ If A is 40% less than B, then B is what percent more than A?
 
 ---
 
-## Question 59
+## Question 29
 
 25% of one number is equal to 40% of another number. Find the ratio of the first number to the second number.
 
@@ -514,7 +321,7 @@ If A is 40% less than B, then B is what percent more than A?
 
 ---
 
-## Question 60
+## Question 30
 
 A number is increased by 50% and then decreased by 50%. Find the overall percentage change.
 
