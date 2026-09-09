@@ -9,8 +9,11 @@ So, x% simply means the fraction x/100.
 ## 2. Converting Between Fractions, Decimals and Percentages
 
 **Fraction to Percentage:** Multiply the fraction by 100 (3/4 × 100 = 75%)
+
 **Percentage to Fraction:** Divide the percentage by 100 and simplify (40% = 40/100 = 2/5)
+
 **Decimal to Percentage:** Multiply the decimal by 100 (0.65 × 100 = 65%)
+
 **Percentage to Decimal:** Divide the percentage by 100(12% = 12/100 = 0.12)
 
 ## 3. Useful Fraction–Percentage Values
