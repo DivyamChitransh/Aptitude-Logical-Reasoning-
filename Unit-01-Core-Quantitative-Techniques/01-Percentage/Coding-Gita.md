@@ -8,13 +8,17 @@ So, x% simply means the fraction x/100.
 
 ## 2. Converting Between Fractions, Decimals and Percentages
 
-**Fraction to Percentage:** Multiply the fraction by 100 (3/4 × 100 = 75%)
+**Fraction to Percentage:** Multiply the fraction by 100  
+``` (3/4 × 100 = 75%) ```
 
-**Percentage to Fraction:** Divide the percentage by 100 and simplify (40% = 40/100 = 2/5)
+**Percentage to Fraction:** Divide the percentage by 100 and simplify  
+``` (40% = 40/100 = 2/5) ```
 
-**Decimal to Percentage:** Multiply the decimal by 100 (0.65 × 100 = 65%)
+**Decimal to Percentage:** Multiply the decimal by 100  
+``` (0.65 × 100 = 65%) ```
 
-**Percentage to Decimal:** Divide the percentage by 100(12% = 12/100 = 0.12)
+**Percentage to Decimal:** Divide the percentage by 100  
+``` (12% = 12/100 = 0.12) ```
 
 ## 3. Useful Fraction–Percentage Values
 
@@ -32,26 +36,25 @@ It helps to know some common fractions and their percentage values, since they a
 
 ## 4. How to Find a Percentage of a Number
 
-To find x% of a number N, use this formula:
-
-x% of N = (x / 100) × N
+To find x% of a number N, use this formula:  
+``` x% of N = (x / 100) × N ```
 
 
 ## 5. Percentage Increase and Percentage Decrease
 
 **When a value increases by x%:**
 
-New value = Original value + x% of Original value
-New value = Original value × (1 + x/100)
+New value = Original value + x% of Original value :
+``` New value = Original value × (1 + x/100) ```
 
 **When a value decreases by x%:**
 
-New value = Original value − x% of Original value
-New value = Original value × (1 − x/100)
+New value = Original value − x% of Original value :
+``` New value = Original value × (1 − x/100) ```
 
 **General Formula for Percentage Change**
 
-Percentage change = [(New value − Original value) / Original value] × 100
+``` Percentage change = [(New value − Original value) / Original value] × 100 ```
 
 If the answer is positive, it is a percentage increase.
 If the answer is negative, it is a percentage decrease.
@@ -71,7 +74,7 @@ This is why the two changes do not cancel out.
 
 If a quantity changes by a% and then by b% (one after the other), the total (net) percentage change is:
 
-Net % change = a + b + (a × b)/100
+``` Net % change = a + b + (a × b)/100 ```
 
 ## 7. Price and Consumption Problems
 
@@ -79,11 +82,11 @@ This is a common type of problem: if the price of something increases, by how mu
 
 **If price increases by x%, the reduction needed in consumption is:**
 
-Required % decrease in consumption = [x / (100 + x)] × 100
+Required % decrease in consumption : ``` [x / (100 + x)] × 100 ```
 
 **If price decreases by x%, the increase allowed in consumption is:**
 
-Required % increase in consumption = [x / (100 − x)] × 100
+Required % increase in consumption : ``` [x / (100 − x)] × 100 ```
 
 ## 8. Simple Word Problems Based on Percentage
 
@@ -91,4 +94,4 @@ Required % increase in consumption = [x / (100 − x)] × 100
 
 If a population P grows at r% every year, then after n years, the new population is:
 
-New population = P × (1 + r/100)^n
+New population : ``` P × (1 + r/100)^n ```
