@@ -6,11 +6,6 @@ Percentages
 
 So, x% simply means the fraction x/100.
 
-For example:
-- 50% means 50/100, which is the same as 1/2
-- 25% means 25/100, which is the same as 1/4
-- 10% means 10/100, which is the same as 1/10
-
 ## 2. Converting Between Fractions, Decimals and Percentages
 
 **Fraction to Percentage:** Multiply the fraction by 100 (3/4 × 100 = 75%)
