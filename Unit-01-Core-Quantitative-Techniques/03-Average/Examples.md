@@ -130,10 +130,10 @@ The average of 12 numbers is 25. If the total sum is reduced by 24, what will be
 
 The average of 10 numbers is 35. A new number 55 is added. What will be the new average?
 
-* a) 36
-* b) 37
-* c) 38
-* d) 40
+* a) 36.81
+* b) 37.62
+* c) 38.45
+* d) 40.87
 
 ---
 
