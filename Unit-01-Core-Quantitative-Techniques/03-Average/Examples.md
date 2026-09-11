@@ -242,13 +242,12 @@ The average of five consecutive numbers is 36. What is the smallest number?
 
 ### Question 21
 
-The average of seven consecutive numbers is 48. What is the largest number?
+Find the average of the first 20 natural numbers.
 
-* a) 52
-* b) 54
-* c) 56
-* d) 58
-
+* a) 9.5
+* b) 10
+* c) 10.5
+* d) 11
 ---
 
 ### Question 22
