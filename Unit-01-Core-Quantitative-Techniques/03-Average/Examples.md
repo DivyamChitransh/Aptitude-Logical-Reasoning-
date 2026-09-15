@@ -15,40 +15,34 @@ Without adding all the marks, what is the average?
 
 The average of 5 numbers is 30.
 
-Which statement is **definitely true**?
+The average of 5 numbers is 24. One number is 32. What is the average of the remaining 4 numbers if their total is 88?
 
-* a) Every number must be 30
-* b) At least one number must be 30
-* c) The total of all five numbers is 150
-* d) The smallest number must be 30
+a) 20
+b) 22
+c) 24
+d) 26
 
 ---
 
 ### Question 3
 
-The average of 8 numbers is 25.
+The average of 6 numbers is 25. If one number is 35, what is the average of the remaining 5 numbers?
 
-If every number is **5 more than its average**, what will be their new average?
-
-* a) 25
-* b) 30
-* c) 35
-* d) 40
+a) 22
+b) 23
+c) 24
+d) 25
 
 ---
 
 ### Question 4
 
-The average of 6 numbers is 40.
+The average of 5 numbers is 40. Two numbers are 35 and 45. What is the average of the remaining 3 numbers?
 
-One number is **10 more than the average**, while another number is **10 less than the average**.
-
-If these two numbers are removed, what happens to the average of the remaining numbers?
-
-* a) It increases
-* b) It decreases
-* c) It remains the same
-* d) It becomes zero
+a) 35
+b) 40
+c) 42
+d) 45
 
 ---
 
