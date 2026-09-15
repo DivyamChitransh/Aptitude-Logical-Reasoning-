@@ -17,10 +17,10 @@ The average of 5 numbers is 30.
 
 The average of 5 numbers is 24. One number is 32. What is the average of the remaining 4 numbers if their total is 88?
 
-a) 20
-b) 22
-c) 24
-d) 26
+* a) 20
+* b) 22
+* c) 24
+* d) 26
 
 ---
 
@@ -28,10 +28,10 @@ d) 26
 
 The average of 6 numbers is 25. If one number is 35, what is the average of the remaining 5 numbers?
 
-a) 22
-b) 23
-c) 24
-d) 25
+* a) 22
+* b) 23
+* c) 24
+* d) 25
 
 ---
 
@@ -39,10 +39,10 @@ d) 25
 
 The average of 5 numbers is 40. Two numbers are 35 and 45. What is the average of the remaining 3 numbers?
 
-a) 35
-b) 40
-c) 42
-d) 45
+* a) 35
+* b) 40
+* c) 42
+* d) 45
 
 ---
 
