@@ -1,206 +1,4 @@
-# Profit and Loss - Practice Questions
-
-This section contains practice questions based on:
-
-* Cost Price (CP)
-* Selling Price (SP)
-* Profit
-* Loss
-* Profit Percentage
-* Loss Percentage
-* Marked Price (MP)
-* Discount
-* Successive Discounts
-* Profit and Discount
-* Mixed Profit and Loss Problems
-
----
-
-# Part 1: Normal Practice Questions
-
 ## Question 1
-
-An item is bought for ₹500 and sold for ₹650. Find the profit.
-
----
-
-## Question 2
-
-An item is bought for ₹800 and sold for ₹600. Find the loss.
-
----
-
-## Question 3
-
-An item is bought for ₹400 and sold for ₹500. Find the profit percentage.
-
----
-
-## Question 4
-
-An item is bought for ₹1,200 and sold for ₹900. Find the loss percentage.
-
----
-
-## Question 5
-
-An item is bought for ₹750 and sold at a profit of 20%. Find the selling price.
-
----
-
-## Question 6
-
-An item is bought for ₹2,000 and sold at a loss of 15%. Find the selling price.
-
----
-
-## Question 7
-
-An item is sold for ₹1,080 at a profit of 20%. Find its cost price.
-
----
-
-## Question 8
-
-An item is sold for ₹720 at a loss of 10%. Find its cost price.
-
----
-
-## Question 9
-
-A shopkeeper buys an article for ₹1,500 and wants to earn a profit of 25%. Find the selling price.
-
----
-
-## Question 10
-
-A person sells an article for ₹1,360 and makes a loss of 15%. Find the cost price.
-
----
-
-## Question 11
-
-The marked price of an article is ₹2,000. A discount of 20% is given. Find the selling price.
-
----
-
-## Question 12
-
-The marked price of an article is ₹1,500 and it is sold for ₹1,200. Find the discount percentage.
-
----
-
-## Question 13
-
-An article is marked at ₹2,500 and a discount of 12% is given. Find the selling price.
-
----
-
-## Question 14
-
-An article is sold for ₹1,080 after giving a discount of 10%. Find the marked price.
-
----
-
-## Question 15
-
-A shopkeeper gives two successive discounts of 20% and 10%. Find the equivalent discount percentage.
-
----
-
-## Question 16
-
-A shopkeeper gives successive discounts of 30% and 20%. Find the equivalent discount percentage.
-
----
-
-## Question 17
-
-An article has a marked price of ₹1,000. Two successive discounts of 10% and 20% are given. Find the final selling price.
-
----
-
-## Question 18
-
-A shopkeeper buys an article for ₹800, marks it at ₹1,200 and gives a discount of 10%. Find the profit percentage.
-
----
-
-## Question 19
-
-A shopkeeper buys an article for ₹1,000, marks it 40% above the cost price and gives a discount of 10%. Find the profit percentage.
-
----
-
-## Question 20
-
-An article is sold at a profit of 25%. If the selling price is increased by ₹100, the profit becomes 35%. Find the cost price.
-
----
-
-## Question 21
-
-An article is sold at a loss of 20%. If the selling price is increased by ₹150, there is no profit and no loss. Find the cost price.
-
----
-
-## Question 22
-
-A shopkeeper sells an article at a profit of 20%. If he had sold it for ₹60 more, the profit would have been 30%. Find the cost price.
-
----
-
-## Question 23
-
-A person sells two articles for ₹1,000 each. On one article he gains 20% and on the other he loses 20%. Find the overall profit or loss percentage.
-
----
-
-## Question 24
-
-A person sells two articles at the same selling price. He gains 25% on one article and loses 25% on the other. Find the overall profit or loss percentage.
-
----
-
-## Question 25
-
-A shopkeeper marks an article 50% above its cost price and gives a discount of 20%. Find the profit percentage.
-
----
-
-## Question 26
-
-A shopkeeper marks an article 25% above its cost price and gives a discount of 10%. Find the profit percentage.
-
----
-
-## Question 27
-
-The cost price of 15 articles is equal to the selling price of 12 articles. Find the profit percentage.
-
----
-
-## Question 28
-
-The selling price of 20 articles is equal to the cost price of 25 articles. Find the loss percentage.
-
----
-
-## Question 29
-
-A trader uses a false weight of 900 grams instead of 1 kg but sells the goods at the cost price per kg. Find his profit percentage.
-
----
-
-## Question 30
-
-A shopkeeper gives a discount of 20% on the marked price and still earns a profit of 20%. If the cost price is ₹1,000, find the marked price.
-
----
-
-# Part 2: Multiple Choice Questions
-
-## Question 31
 
 An article is bought for ₹600 and sold for ₹720. What is the profit percentage?
 
@@ -211,7 +9,7 @@ An article is bought for ₹600 and sold for ₹720. What is the profit percenta
 
 ---
 
-## Question 32
+## Question 2
 
 An article is bought for ₹800 and sold for ₹680. What is the loss percentage?
 
@@ -222,7 +20,7 @@ An article is bought for ₹800 and sold for ₹680. What is the loss percentage
 
 ---
 
-## Question 33
+## Question 3
 
 An article costing ₹500 is sold at a profit of 30%. What is the selling price?
 
@@ -233,7 +31,7 @@ An article costing ₹500 is sold at a profit of 30%. What is the selling price?
 
 ---
 
-## Question 34
+## Question 4
 
 An article costing ₹1,200 is sold at a loss of 25%. What is the selling price?
 
@@ -244,7 +42,7 @@ An article costing ₹1,200 is sold at a loss of 25%. What is the selling price?
 
 ---
 
-## Question 35
+## Question 5
 
 An article is sold for ₹960 at a profit of 20%. What is its cost price?
 
@@ -255,7 +53,7 @@ An article is sold for ₹960 at a profit of 20%. What is its cost price?
 
 ---
 
-## Question 36
+## Question 6
 
 An article is sold for ₹1,080 at a loss of 10%. What is its cost price?
 
@@ -266,7 +64,7 @@ An article is sold for ₹1,080 at a loss of 10%. What is its cost price?
 
 ---
 
-## Question 37
+## Question 7
 
 The marked price of an article is ₹2,500. A discount of 20% is given. What is the selling price?
 
@@ -277,7 +75,7 @@ The marked price of an article is ₹2,500. A discount of 20% is given. What is 
 
 ---
 
-## Question 38
+## Question 8
 
 An article marked at ₹1,500 is sold for ₹1,200. What is the discount percentage?
 
@@ -288,7 +86,7 @@ An article marked at ₹1,500 is sold for ₹1,200. What is the discount percent
 
 ---
 
-## Question 39
+## Question 9
 
 Two successive discounts of 20% and 10% are equal to a single discount of:
 
@@ -299,7 +97,7 @@ Two successive discounts of 20% and 10% are equal to a single discount of:
 
 ---
 
-## Question 40
+## Question 10
 
 Two successive discounts of 30% and 20% are equal to:
 
@@ -310,7 +108,7 @@ Two successive discounts of 30% and 20% are equal to:
 
 ---
 
-## Question 41
+## Question 11
 
 A shopkeeper buys an article for ₹1,000 and marks it 50% above the cost price. If he gives a discount of 20%, his profit percentage is:
 
@@ -321,7 +119,7 @@ A shopkeeper buys an article for ₹1,000 and marks it 50% above the cost price.
 
 ---
 
-## Question 42
+## Question 12
 
 A shopkeeper buys an article for ₹800, marks it at ₹1,200 and gives a discount of 10%. His profit percentage is:
 
@@ -332,7 +130,7 @@ A shopkeeper buys an article for ₹800, marks it at ₹1,200 and gives a discou
 
 ---
 
-## Question 43
+## Question 13
 
 The cost price of 10 articles is equal to the selling price of 8 articles. The profit percentage is:
 
@@ -343,7 +141,7 @@ The cost price of 10 articles is equal to the selling price of 8 articles. The p
 
 ---
 
-## Question 44
+## Question 14
 
 The selling price of 15 articles is equal to the cost price of 20 articles. The loss percentage is:
 
@@ -354,7 +152,7 @@ The selling price of 15 articles is equal to the cost price of 20 articles. The 
 
 ---
 
-## Question 45
+## Question 15
 
 A trader sells an article at a profit of 25%. If he had sold it for ₹100 more, his profit would have been 35%. The cost price is:
 
@@ -365,7 +163,7 @@ A trader sells an article at a profit of 25%. If he had sold it for ₹100 more,
 
 ---
 
-## Question 46
+## Question 16
 
 A trader sells an article at a loss of 20%. If the selling price is increased by ₹200, there is no profit and no loss. The cost price is:
 
@@ -376,7 +174,7 @@ A trader sells an article at a loss of 20%. If the selling price is increased by
 
 ---
 
-## Question 47
+## Question 17
 
 A person sells two articles for ₹500 each. He gains 20% on one and loses 20% on the other. The overall result is:
 
@@ -387,7 +185,7 @@ A person sells two articles for ₹500 each. He gains 20% on one and loses 20% o
 
 ---
 
-## Question 48
+## Question 18
 
 A person sells two articles at the same selling price. He gains 25% on one and loses 25% on the other. The overall loss percentage is:
 
@@ -398,7 +196,7 @@ A person sells two articles at the same selling price. He gains 25% on one and l
 
 ---
 
-## Question 49
+## Question 19
 
 A shopkeeper marks an article 40% above its cost price and gives a discount of 10%. The profit percentage is:
 
@@ -409,7 +207,7 @@ A shopkeeper marks an article 40% above its cost price and gives a discount of 1
 
 ---
 
-## Question 50
+## Question 20
 
 An article is marked 25% above its cost price. If a discount of 20% is given, the result is:
 
@@ -420,7 +218,7 @@ An article is marked 25% above its cost price. If a discount of 20% is given, th
 
 ---
 
-## Question 51
+## Question 21
 
 A shopkeeper gives a discount of 20% and still earns a profit of 20%. If the cost price is ₹500, the marked price is:
 
@@ -431,7 +229,7 @@ A shopkeeper gives a discount of 20% and still earns a profit of 20%. If the cos
 
 ---
 
-## Question 52
+## Question 22
 
 A trader uses a false weight of 800 grams instead of 1 kg but charges the cost price for 1 kg. His profit percentage is:
 
@@ -442,7 +240,7 @@ A trader uses a false weight of 800 grams instead of 1 kg but charges the cost p
 
 ---
 
-## Question 53
+## Question 23
 
 An article is sold for ₹1,200 after a discount of 20%. Its marked price is:
 
@@ -453,7 +251,7 @@ An article is sold for ₹1,200 after a discount of 20%. Its marked price is:
 
 ---
 
-## Question 54
+## Question 24
 
 A shopkeeper marks an article 60% above its cost price and gives a discount of 25%. The profit percentage is:
 
@@ -464,7 +262,7 @@ A shopkeeper marks an article 60% above its cost price and gives a discount of 2
 
 ---
 
-## Question 55
+## Question 25
 
 If the selling price of an article is doubled, the profit becomes 140%. What was the original profit percentage?
 
@@ -475,7 +273,7 @@ If the selling price of an article is doubled, the profit becomes 140%. What was
 
 ---
 
-## Question 56
+## Question 26
 
 A shopkeeper marks an article at ₹2,000 and gives successive discounts of 10% and 20%. The final selling price is:
 
@@ -486,7 +284,7 @@ A shopkeeper marks an article at ₹2,000 and gives successive discounts of 10% 
 
 ---
 
-## Question 57
+## Question 27
 
 An article is sold at a profit of 20%. If both CP and SP are increased by ₹100, the profit percentage becomes 16.67%. The original cost price is:
 
@@ -497,7 +295,7 @@ An article is sold at a profit of 20%. If both CP and SP are increased by ₹100
 
 ---
 
-## Question 58
+## Question 28
 
 A trader sells goods at a profit of 25%. If the cost price increases by 20% while the selling price remains unchanged, the new result is:
 
@@ -508,7 +306,7 @@ A trader sells goods at a profit of 25%. If the cost price increases by 20% whil
 
 ---
 
-## Question 59
+## Question 29
 
 A shopkeeper sells an article at 10% loss. At what percentage profit should he sell another article of the same cost price to have no overall profit or loss?
 
@@ -519,7 +317,7 @@ A shopkeeper sells an article at 10% loss. At what percentage profit should he s
 
 ---
 
-## Question 60
+## Question 30
 
 A trader buys an article for ₹2,000 and marks it 50% above the cost price. He gives a discount such that he still earns a profit of 20%. Find the discount percentage.
 
