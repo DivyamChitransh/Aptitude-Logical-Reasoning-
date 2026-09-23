@@ -516,7 +516,7 @@ A : B = **5 : 8**.
 
 B : C = **4 : 7**.
 
-If the total of A, B and C is **1,020**, find C.
+If the total of A, B and C is **1,080**, find C.
 
 * a) 420
 * b) 480
