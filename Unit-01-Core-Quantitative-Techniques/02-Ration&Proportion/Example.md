@@ -559,7 +559,7 @@ If C = **45**, find A + B.
 
 A, B and C have quantities in the ratio **2 : 3 : 5**.
 
-If **20 units are transferred from C to A**, the quantities of A and C become equal.
+If **30 units are transferred from C to A**, the quantities of A and C become equal.
 
 Find the original quantity of C.
 
