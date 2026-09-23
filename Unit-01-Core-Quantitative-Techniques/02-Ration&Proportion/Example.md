@@ -489,7 +489,7 @@ If **7 litres of milk** is added, the ratio becomes **11 : 6**.
 Find the original quantity of water.
 
 * a) 12 L
-* b) 15 L
+* b) 14 L
 * c) 18 L
 * d) 21 L
 
@@ -506,7 +506,7 @@ If the difference between C and A is **₹480**, find B's amount.
 * a) ₹360
 * b) ₹400
 * c) ₹480
-* d) ₹560
+* d) ₹600
 
 ---
 
@@ -566,7 +566,7 @@ Find the original quantity of C.
 * a) 40
 * b) 50
 * c) 60
-* d) 80
+* d) 100
 
 # Answer Key
 
@@ -591,4 +591,4 @@ Find the original quantity of C.
 | 17 | **b) 4 : 7**             | 37 | **c) 560**    |
 | 18 | **d) 70**                | 38 | **c) 81**     |
 | 19 | **a) 8 : 10 : 9**        | 39 | **c) 112**    |
-| 20 | **a) 16 : 24 : 30 : 21** | 40 | **b) 50**     |
+| 20 | **a) 16 : 24 : 30 : 21** | 40 | **b) 100**     |
