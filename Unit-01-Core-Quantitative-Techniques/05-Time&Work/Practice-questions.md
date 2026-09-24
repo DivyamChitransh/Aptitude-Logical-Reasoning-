@@ -1,203 +1,4 @@
-# Time and Work - Practice Questions
-
-This section contains practice questions based on:
-
-* One Day Work
-* Work Done in Given Time
-* Combined Work
-* Efficiency
-* Joining and Leaving Work
-* Men and Days
-* Men, Days and Hours
-* Pipes and Cisterns
-
----
-
-# Part 1: Normal Practice Questions
-
 ## Question 1
-
-A can complete a work in 10 days. What part of the work does A complete in one day?
-
----
-
-## Question 2
-
-A can complete a work in 15 days. How much work will A complete in 5 days?
-
----
-
-## Question 3
-
-A can complete a work in 12 days and B can complete the same work in 18 days. In how many days can they complete the work together?
-
----
-
-## Question 4
-
-A can complete a work in 20 days and B can complete it in 30 days. In how many days can they complete the work together?
-
----
-
-## Question 5
-
-A can complete a work in 8 days and B can complete it in 24 days. Find their combined one-day work.
-
----
-
-## Question 6
-
-A can complete a work in 10 days, B in 15 days and C in 30 days. In how many days can they complete the work together?
-
----
-
-## Question 7
-
-A can complete a work in 12 days and B can complete it in 18 days. A works alone for 4 days, after which B joins him. Find the total time required to complete the work.
-
----
-
-## Question 8
-
-A can complete a work in 15 days and B can complete it in 20 days. They work together for 5 days, after which A leaves. In how many more days will B complete the remaining work?
-
----
-
-## Question 9
-
-A can complete a work in 10 days and B can complete it in 15 days. They start working together, but after 3 days B leaves. How many more days will A take to complete the remaining work?
-
----
-
-## Question 10
-
-A is twice as efficient as B. If B can complete a work in 20 days, in how many days can A complete the same work?
-
----
-
-## Question 11
-
-A and B have efficiencies in the ratio 3 : 2. If A completes a work in 12 days, in how many days can B complete it?
-
----
-
-## Question 12
-
-A is 50% more efficient than B. If B completes a work in 18 days, find the time taken by A.
-
----
-
-## Question 13
-
-The efficiency ratio of A and B is 4 : 5. If they work together and complete a work in 9 days, find the time taken by A alone.
-
----
-
-## Question 14
-
-A is three times as efficient as B. If they together complete a work in 6 days, find the time taken by B alone.
-
----
-
-## Question 15
-
-10 workers can complete a work in 12 days. How many days will 15 workers take to complete the same work, assuming equal efficiency?
-
----
-
-## Question 16
-
-12 workers can complete a work in 15 days. How many workers are required to complete the same work in 9 days?
-
----
-
-## Question 17
-
-20 workers working 8 hours per day can complete a work in 15 days. How many days will 30 workers working 10 hours per day take to complete the same work?
-
----
-
-## Question 18
-
-15 workers can complete a work in 24 days. After working for 8 days, 5 workers leave. In how many more days will the remaining workers complete the work?
-
----
-
-## Question 19
-
-12 men can complete a work in 20 days. After 5 days, 4 more men join them. Find the total number of days required to complete the work.
-
----
-
-## Question 20
-
-8 workers can complete a work in 30 days. After working for 10 days, 4 more workers join them. Find the total time required to complete the work.
-
----
-
-## Question 21
-
-A can complete a work in 12 days and B can complete it in 16 days. They work on alternate days, starting with A. In how many days will the work be completed?
-
----
-
-## Question 22
-
-A can complete a work in 8 days, B in 12 days and C in 24 days. A and B work together for 2 days, after which C also joins them. Find the total time required.
-
----
-
-## Question 23
-
-A can complete a work in 18 days and B in 24 days. They work together for 4 days. What fraction of the work remains?
-
----
-
-## Question 24
-
-A can complete a work in 16 days. B is 25% more efficient than A. In how many days can B complete the work?
-
----
-
-## Question 25
-
-A completes 60% of a work in 12 days. In how many days will A complete the entire work at the same rate?
-
----
-
-## Question 26
-
-Pipe A can fill a tank in 10 hours and Pipe B can fill it in 15 hours. How long will they take to fill the tank together?
-
----
-
-## Question 27
-
-Pipe A can fill a tank in 12 hours and Pipe B can empty it in 18 hours. If both are opened together, how long will it take to fill the tank?
-
----
-
-## Question 28
-
-Pipe A can fill a tank in 8 hours, Pipe B can fill it in 12 hours and Pipe C can empty it in 24 hours. How long will all three pipes take to fill the tank?
-
----
-
-## Question 29
-
-Pipe A can fill a tank in 6 hours. After filling for 2 hours, another pipe B is opened, which can fill the tank in 8 hours. How much more time is required to fill the tank?
-
----
-
-## Question 30
-
-Two pipes can fill a tank in 20 minutes and 30 minutes respectively. A third pipe can empty the full tank in 60 minutes. If all three are opened together, how long will the tank take to fill?
-
----
-
-# Part 2: Multiple Choice Questions
-
-## Question 31
 
 A can complete a work in 15 days. B can complete the same work in 10 days. In how many days can they complete the work together?
 
@@ -208,7 +9,7 @@ A can complete a work in 15 days. B can complete the same work in 10 days. In ho
 
 ---
 
-## Question 32
+## Question 2
 
 A can complete a work in 12 days and B in 18 days. Their combined one-day work is:
 
@@ -219,7 +20,7 @@ A can complete a work in 12 days and B in 18 days. Their combined one-day work i
 
 ---
 
-## Question 33
+## Question 3
 
 A can complete a work in 20 days. B is twice as efficient as A. B can complete the work in:
 
@@ -230,7 +31,7 @@ A can complete a work in 20 days. B is twice as efficient as A. B can complete t
 
 ---
 
-## Question 34
+## Question 4
 
 A and B have efficiencies in the ratio 2 : 3. If A takes 18 days to complete a work, B will take:
 
@@ -241,7 +42,7 @@ A and B have efficiencies in the ratio 2 : 3. If A takes 18 days to complete a w
 
 ---
 
-## Question 35
+## Question 5
 
 A is 25% more efficient than B. If B completes a work in 20 days, A will complete it in:
 
@@ -252,7 +53,7 @@ A is 25% more efficient than B. If B completes a work in 20 days, A will complet
 
 ---
 
-## Question 36
+## Question 6
 
 A and B together can complete a work in 8 days. If A alone can complete it in 24 days, B alone can complete it in:
 
@@ -263,7 +64,7 @@ A and B together can complete a work in 8 days. If A alone can complete it in 24
 
 ---
 
-## Question 37
+## Question 7
 
 A can complete a work in 10 days and B in 15 days. They work together for 2 days. What fraction of the work remains?
 
@@ -274,7 +75,7 @@ A can complete a work in 10 days and B in 15 days. They work together for 2 days
 
 ---
 
-## Question 38
+## Question 8
 
 A can complete a work in 12 days. He works for 4 days. What fraction of the work is remaining?
 
@@ -285,7 +86,7 @@ A can complete a work in 12 days. He works for 4 days. What fraction of the work
 
 ---
 
-## Question 39
+## Question 9
 
 A can complete a work in 15 days and B in 30 days. A works alone for 5 days and then B joins him. The total time required is:
 
@@ -296,7 +97,7 @@ A can complete a work in 15 days and B in 30 days. A works alone for 5 days and 
 
 ---
 
-## Question 40
+## Question 10
 
 10 workers can complete a work in 18 days. How many days will 15 workers take?
 
@@ -307,7 +108,7 @@ A can complete a work in 15 days and B in 30 days. A works alone for 5 days and 
 
 ---
 
-## Question 41
+## Question 11
 
 12 workers can complete a work in 20 days. How many workers are required to complete it in 15 days?
 
@@ -318,7 +119,7 @@ A can complete a work in 15 days and B in 30 days. A works alone for 5 days and 
 
 ---
 
-## Question 42
+## Question 12
 
 20 workers working 6 hours per day can complete a work in 10 days. How many workers working 8 hours per day are required to complete the work in 5 days?
 
@@ -329,7 +130,7 @@ A can complete a work in 15 days and B in 30 days. A works alone for 5 days and 
 
 ---
 
-## Question 43
+## Question 13
 
 15 workers can complete a work in 24 days. After 8 days, 5 workers leave. The remaining work will be completed in:
 
@@ -340,7 +141,7 @@ A can complete a work in 15 days and B in 30 days. A works alone for 5 days and 
 
 ---
 
-## Question 44
+## Question 14
 
 A can complete a work in 8 days and B in 12 days. They work together for 2 days. B leaves, and A completes the remaining work. The total time required is:
 
@@ -351,7 +152,7 @@ A can complete a work in 8 days and B in 12 days. They work together for 2 days.
 
 ---
 
-## Question 45
+## Question 15
 
 A is three times as efficient as B. If A alone can complete a work in 10 days, B alone can complete it in:
 
@@ -362,7 +163,7 @@ A is three times as efficient as B. If A alone can complete a work in 10 days, B
 
 ---
 
-## Question 46
+## Question 16
 
 A and B can complete a work in 12 days and 18 days respectively. If C is twice as efficient as B, then A, B and C together can complete the work in:
 
@@ -373,7 +174,7 @@ A and B can complete a work in 12 days and 18 days respectively. If C is twice a
 
 ---
 
-## Question 47
+## Question 17
 
 Pipe A can fill a tank in 12 hours and Pipe B can fill it in 18 hours. Together they can fill the tank in:
 
@@ -384,7 +185,7 @@ Pipe A can fill a tank in 12 hours and Pipe B can fill it in 18 hours. Together 
 
 ---
 
-## Question 48
+## Question 18
 
 Pipe A fills a tank in 10 hours and Pipe B empties it in 15 hours. If both are opened together, the tank will be filled in:
 
@@ -395,7 +196,7 @@ Pipe A fills a tank in 10 hours and Pipe B empties it in 15 hours. If both are o
 
 ---
 
-## Question 49
+## Question 19
 
 Pipe A fills a tank in 8 hours, Pipe B fills it in 12 hours and Pipe C empties it in 24 hours. How long will the tank take to fill?
 
@@ -406,7 +207,7 @@ Pipe A fills a tank in 8 hours, Pipe B fills it in 12 hours and Pipe C empties i
 
 ---
 
-## Question 50
+## Question 10
 
 A can complete 40% of a work in 8 days. At the same rate, the entire work will be completed in:
 
@@ -417,7 +218,7 @@ A can complete 40% of a work in 8 days. At the same rate, the entire work will b
 
 ---
 
-## Question 51
+## Question 21
 
 A completes a work in 20 days. B completes the same work in 30 days. If they work together, the number of days required is:
 
@@ -428,7 +229,7 @@ A completes a work in 20 days. B completes the same work in 30 days. If they wor
 
 ---
 
-## Question 52
+## Question 22
 
 A and B together can complete a work in 6 days. A alone can complete it in 10 days. B alone can complete it in:
 
@@ -439,7 +240,7 @@ A and B together can complete a work in 6 days. A alone can complete it in 10 da
 
 ---
 
-## Question 53
+## Question 23
 
 The efficiency ratio of A and B is 5 : 4. If B takes 20 days to complete a work, A takes:
 
@@ -450,7 +251,7 @@ The efficiency ratio of A and B is 5 : 4. If B takes 20 days to complete a work,
 
 ---
 
-## Question 54
+## Question 24
 
 A completes a work in 15 days. If his efficiency increases by 50%, the work will be completed in:
 
@@ -461,7 +262,7 @@ A completes a work in 15 days. If his efficiency increases by 50%, the work will
 
 ---
 
-## Question 55
+## Question 25
 
 8 workers can complete a work in 25 days. If 2 workers leave after 5 days, the total time required to complete the work is:
 
@@ -472,7 +273,7 @@ A completes a work in 15 days. If his efficiency increases by 50%, the work will
 
 ---
 
-## Question 56
+## Question 26
 
 A can complete a work in 6 days and B can complete it in 8 days. They work together for 2 days. The fraction of work remaining is:
 
@@ -483,7 +284,7 @@ A can complete a work in 6 days and B can complete it in 8 days. They work toget
 
 ---
 
-## Question 57
+## Question 27
 
 12 men can complete a work in 15 days. After 5 days, 3 more men join them. The total time required to complete the work is:
 
@@ -494,7 +295,7 @@ A can complete a work in 6 days and B can complete it in 8 days. They work toget
 
 ---
 
-## Question 58
+## Question 28
 
 A pipe fills a tank in 5 hours. Another pipe empties it in 20 hours. If both are opened together, the tank will be filled in:
 
@@ -505,7 +306,7 @@ A pipe fills a tank in 5 hours. Another pipe empties it in 20 hours. If both are
 
 ---
 
-## Question 59
+## Question 29
 
 A can complete a work in 18 days. B is 50% more efficient than A. B can complete the work in:
 
@@ -516,7 +317,7 @@ A can complete a work in 18 days. B is 50% more efficient than A. B can complete
 
 ---
 
-## Question 60
+## Question 30
 
 A, B and C can complete a work individually in 12, 18 and 36 days respectively. They work together for 2 days. What fraction of the work remains?
 
