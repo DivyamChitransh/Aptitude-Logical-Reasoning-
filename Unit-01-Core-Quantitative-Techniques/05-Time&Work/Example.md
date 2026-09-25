@@ -206,11 +206,11 @@ A can complete a work in **12 days** and B can complete it in **18 days**. They 
 
 ### Example 19
 
-**16 workers** can complete a work in **15 days**. After working for **5 days**, **4 workers leave**. The remaining work will be completed in:
+**20 workers** can complete a work in **18 days**. After working for **6 days**, **5 workers leave**. The remaining work will be completed in:
 
 * a) 10 days
 * b) 12 days
-* c) 13⅓ days
+* c) 16 days
 * d) 15 days
 
 ---
