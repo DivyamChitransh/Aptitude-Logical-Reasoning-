@@ -366,7 +366,7 @@ A, B and C can individually complete a work in **15, 20 and 30 days** respective
 | 16      | **c) 16 days**    |
 | 17      | **b) 14 days**    |
 | 18      | **c) 20 days**    |
-| 19      | **c) 13⅓ days**   |
+| 19      | **c) 16 days**   |
 | 20      | **b) 6 days**     |
 | 21      | **b) 6 days**     |
 | 22      | **b) 6 days**     |
