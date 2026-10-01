@@ -1,6 +1,4 @@
-**## Coding and Decoding - Practice Questions**
-
-**### Question 1**
+### Question 1
 
 In a certain code, each letter is shifted 2 places forward in the alphabet. How will **CAT** be coded?
 
@@ -11,7 +9,7 @@ In a certain code, each letter is shifted 2 places forward in the alphabet. How 
 
 ---
 
-**### Question 2**
+### Question 2
 
 If each letter of a word is shifted 3 places backward in the alphabet, how will **DOG** be coded?
 
@@ -22,7 +20,7 @@ If each letter of a word is shifted 3 places backward in the alphabet, how will 
 
 ---
 
-**### Question 3**
+### Question 3
 
 In a certain code, **BOOK** is written as **CPPL**. How will **GAME** be written using the same rule?
 
@@ -33,7 +31,7 @@ In a certain code, **BOOK** is written as **CPPL**. How will **GAME** be written
 
 ---
 
-**### Question 4**
+### Question 4
 
 If **MANGO** is coded as **NBOHP**, which of the following will be the code for **APPLE**?
 
@@ -44,7 +42,7 @@ If **MANGO** is coded as **NBOHP**, which of the following will be the code for 
 
 ---
 
-**### Question 5**
+### Question 5
 
 If every letter is replaced by its reverse alphabet letter, where A = Z, B = Y, C = X and so on, how will **DOG** be coded?
 
@@ -55,7 +53,7 @@ If every letter is replaced by its reverse alphabet letter, where A = Z, B = Y, 
 
 ---
 
-**### Question 6**
+### Question 6
 
 In a certain code, **PEN** is written as **16-5-14**. How will **BAT** be written using the same rule?
 
@@ -66,7 +64,7 @@ In a certain code, **PEN** is written as **16-5-14**. How will **BAT** be writte
 
 ---
 
-**### Question 7**
+### Question 7
 
 In a certain code, the code of a word is the sum of the alphabetical positions of all its letters. If **CAT = 24** and **DOG = 26**, what is the code for **BAT**?
 
@@ -77,7 +75,7 @@ In a certain code, the code of a word is the sum of the alphabetical positions o
 
 ---
 
-**### Question 8**
+### Question 8
 
 If the code of a word is obtained by adding 1 to the position of each letter, how will **FISH** be coded?
 
@@ -88,7 +86,7 @@ If the code of a word is obtained by adding 1 to the position of each letter, ho
 
 ---
 
-**### Question 9**
+### Question 9
 
 In a certain code, **SUN** is written as **19-21-14**. How will **MOON** be written?
 
@@ -99,7 +97,7 @@ In a certain code, **SUN** is written as **19-21-14**. How will **MOON** be writ
 
 ---
 
-**### Question 10**
+### Question 10
 
 In a certain code, **DOG** is written as **13**. The code is obtained by adding the alphabetical positions of the first and last letters and subtracting the position of the middle letter. How will **CAT** be coded using the same rule?
 
@@ -110,7 +108,7 @@ In a certain code, **DOG** is written as **13**. The code is obtained by adding 
 
 ---
 
-**### Question 11**
+### Question 11
 
 In a certain code, “564” means “study very hard”, “736” means “hard work pays”, and “423” means “study and work”. Which of the following is the code for **hard**?
 
@@ -121,7 +119,7 @@ In a certain code, “564” means “study very hard”, “736” means “har
 
 ---
 
-**### Question 12**
+### Question 12
 
 In a certain code, “red blue green” is coded as “ka la ma”, and “blue yellow” is coded as “la pa”. What is the code for **blue**?
 
@@ -132,7 +130,7 @@ In a certain code, “red blue green” is coded as “ka la ma”, and “blue 
 
 ---
 
-**### Question 13**
+### Question 13
 
 In a certain code, “good boy plays” is coded as “na ki po”, and “good girl sings” is coded as “na ru se”. What is the code for **good**?
 
@@ -143,7 +141,7 @@ In a certain code, “good boy plays” is coded as “na ki po”, and “good 
 
 ---
 
-**### Question 14**
+### Question 14
 
 If the letters of the word **POSITION** are arranged in alphabetical order, which letter will be second to the right of the second letter from the left?
 
@@ -154,7 +152,7 @@ If the letters of the word **POSITION** are arranged in alphabetical order, whic
 
 ---
 
-**### Question 15**
+### Question 15
 
 If the letters of the word **MARKET** are arranged in alphabetical order, which letter will be third from the right?
 
@@ -165,7 +163,7 @@ If the letters of the word **MARKET** are arranged in alphabetical order, which 
 
 ---
 
-**### Question 16**
+### Question 16
 
 If in the English alphabet, every alternate letter starting from D is written in capital letters and the remaining letters in small letters, how will the **3rd day from Monday** be coded?
 
@@ -176,7 +174,7 @@ If in the English alphabet, every alternate letter starting from D is written in
 
 ---
 
-**### Question 17**
+### Question 17
 
 If in the English alphabet, every alternate letter starting from B is written in capital letters and the remaining letters in small letters, how will the word **TABLE** be written?
 
@@ -187,7 +185,7 @@ If in the English alphabet, every alternate letter starting from B is written in
 
 ---
 
-**### Question 18**
+### Question 18
 
 In a certain code, each letter is represented by a fixed digit. If **DELHI** is written as **92675** and **BOMBAY** is written as **431408**, how will **BAD** be written?
 
@@ -198,7 +196,7 @@ In a certain code, each letter is represented by a fixed digit. If **DELHI** is 
 
 ---
 
-**### Question 19**
+### Question 19
 
 In a certain code, **APPLE** is written as **50** and **MANGO** is written as **55**. The code is the sum of the alphabetical positions of all letters. What is the code for **GRAPE**?
 
@@ -209,7 +207,7 @@ In a certain code, **APPLE** is written as **50** and **MANGO** is written as **
 
 ---
 
-**### Question 20**
+### Question 20
 
 In a certain code, **CAT** is written as **3-1-20**, but the code is written in reverse order. How will **DOG** be written?
 
@@ -220,7 +218,7 @@ In a certain code, **CAT** is written as **3-1-20**, but the code is written in 
 
 ---
 
-**### Question 21**
+### Question 21
 
 If **A = 1, B = 2, C = 3, ... Z = 26**, and a word is coded by multiplying the positions of its first and last letters, what is the code for **CAR**?
 
@@ -231,7 +229,7 @@ If **A = 1, B = 2, C = 3, ... Z = 26**, and a word is coded by multiplying the p
 
 ---
 
-**### Question 22**
+### Question 22
 
 If a word is coded by writing its letters in reverse order, how will **TRAIN** be coded?
 
@@ -242,7 +240,7 @@ If a word is coded by writing its letters in reverse order, how will **TRAIN** b
 
 ---
 
-**### Question 23**
+### Question 23
 
 If **TABLE** is coded as **UBCMF**, which of the following follows the same coding rule?
 
@@ -253,7 +251,7 @@ If **TABLE** is coded as **UBCMF**, which of the following follows the same codi
 
 ---
 
-**### Question 24**
+### Question 24
 
 In a certain code, **MOTHER** is coded as **OMHTRE** by interchanging each pair of adjacent letters. How will **FATHER** be coded?
 
@@ -264,7 +262,7 @@ In a certain code, **MOTHER** is coded as **OMHTRE** by interchanging each pair 
 
 ---
 
-**### Question 25**
+### Question 25
 
 In a certain code language, “book pen paper” is coded as “ka mi ro”, “pen bag” is coded as “mi su”, and “paper bag” is coded as “ro su”. What is the code for **book**?
 
@@ -275,7 +273,7 @@ In a certain code language, “book pen paper” is coded as “ka mi ro”, “
 
 ---
 
-**## Answer Key**
+## Answer Key
 
 | Question | Answer |
 |---|---|
