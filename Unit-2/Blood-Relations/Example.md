@@ -1,4 +1,4 @@
-**### Question 1**
+### Question 1
 
 Introducing a woman, A said, “Her husband is the only son of my father.”
 
