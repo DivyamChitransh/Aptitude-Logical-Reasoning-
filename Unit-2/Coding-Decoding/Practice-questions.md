@@ -1,6 +1,4 @@
-**## Coding and Decoding - Homework Practice**
-
-**### Question 1**
+### Question 1
 
 In a certain code, each letter is shifted 3 places forward in the alphabet. How will **LION** be coded?
 
@@ -11,7 +9,7 @@ In a certain code, each letter is shifted 3 places forward in the alphabet. How 
 
 ---
 
-**### Question 2**
+### Question 2
 
 If each letter of a word is shifted 2 places backward in the alphabet, how will **TRAIN** be coded?
 
@@ -22,7 +20,7 @@ If each letter of a word is shifted 2 places backward in the alphabet, how will 
 
 ---
 
-**### Question 3**
+### Question 3
 
 In a certain code, **FISH** is written as **GJTI**. How will **BIRD** be written using the same rule?
 
@@ -33,7 +31,7 @@ In a certain code, **FISH** is written as **GJTI**. How will **BIRD** be written
 
 ---
 
-**### Question 4**
+### Question 4
 
 If every letter is replaced by its reverse alphabet letter, where A = Z, B = Y, C = X and so on, how will **LAMP** be coded?
 
@@ -44,7 +42,7 @@ If every letter is replaced by its reverse alphabet letter, where A = Z, B = Y, 
 
 ---
 
-**### Question 5**
+### Question 5
 
 If **A = 1, B = 2, C = 3, ... Z = 26**, what is the code for **BRAVE** if the code is the sum of the positions of all its letters?
 
@@ -55,7 +53,7 @@ If **A = 1, B = 2, C = 3, ... Z = 26**, what is the code for **BRAVE** if the co
 
 ---
 
-**### Question 6**
+### Question 6
 
 In a certain code, the code of a word is the sum of the positions of its first and last letters. What is the code for **MARKET**?
 
@@ -66,7 +64,7 @@ In a certain code, the code of a word is the sum of the positions of its first a
 
 ---
 
-**### Question 7**
+### Question 7
 
 If the code of a word is obtained by multiplying the positions of its first and last letters, what is the code for **MATH**?
 
@@ -77,7 +75,7 @@ If the code of a word is obtained by multiplying the positions of its first and 
 
 ---
 
-**### Question 8**
+### Question 8
 
 In a certain code, **PEN** is written as **16-5-14**, while **BOOK** is written as **2-15-15-11**. How will **CHAIR** be written?
 
@@ -88,7 +86,7 @@ In a certain code, **PEN** is written as **16-5-14**, while **BOOK** is written 
 
 ---
 
-**### Question 9**
+### Question 9
 
 In a certain code language, “blue red green” is coded as “ka pa ti”, and “red yellow” is coded as “pa su”. What is the code for **red**?
 
@@ -99,7 +97,7 @@ In a certain code language, “blue red green” is coded as “ka pa ti”, and
 
 ---
 
-**### Question 10**
+### Question 10
 
 In a certain code language, “pen book table” is coded as “ra mi ko”, and “book chair” is coded as “mi tu”. What is the code for **book**?
 
@@ -110,7 +108,7 @@ In a certain code language, “pen book table” is coded as “ra mi ko”, and
 
 ---
 
-**### Question 11**
+### Question 11
 
 In a certain code language, “milk bread tea” is coded as “na po ki”, “bread juice” is coded as “po ru”, and “tea juice” is coded as “ki ru”. What is the code for **milk**?
 
@@ -121,7 +119,7 @@ In a certain code language, “milk bread tea” is coded as “na po ki”, “
 
 ---
 
-**### Question 12**
+### Question 12
 
 In a certain code, “456” means “read and write”, “725” means “write very well”, and “314” means “read good books”. Which number represents **write**?
 
@@ -132,7 +130,7 @@ In a certain code, “456” means “read and write”, “725” means “writ
 
 ---
 
-**### Question 13**
+### Question 13
 
 In a certain code, “638” means “play cricket daily”, “824” means “daily practice hard”, and “591” means “cricket is fun”. Which number represents **daily**?
 
@@ -143,7 +141,7 @@ In a certain code, “638” means “play cricket daily”, “824” means “
 
 ---
 
-**### Question 14**
+### Question 14
 
 If the letters of the word **COMPUTER** are arranged alphabetically, which letter will be third from the left?
 
@@ -154,7 +152,7 @@ If the letters of the word **COMPUTER** are arranged alphabetically, which lette
 
 ---
 
-**### Question 15**
+### Question 15
 
 If the letters of the word **LANGUAGE** are arranged alphabetically, which letter will be second from the right?
 
@@ -165,7 +163,7 @@ If the letters of the word **LANGUAGE** are arranged alphabetically, which lette
 
 ---
 
-**### Question 16**
+### Question 16
 
 If the letters of the word **REASONING** are arranged alphabetically, which letter will be fourth from the left?
 
@@ -176,7 +174,7 @@ If the letters of the word **REASONING** are arranged alphabetically, which lett
 
 ---
 
-**### Question 17**
+### Question 17
 
 If every alternate letter starting from A is written in capital letters and the remaining letters in small letters, how will the word **REASON** be written?
 
@@ -187,7 +185,7 @@ If every alternate letter starting from A is written in capital letters and the 
 
 ---
 
-**### Question 18**
+### Question 18
 
 If every alternate letter starting from B is written in capital letters and the remaining letters in small letters, how will the word **MARKET** be written?
 
@@ -198,7 +196,7 @@ If every alternate letter starting from B is written in capital letters and the 
 
 ---
 
-**### Question 19**
+### Question 19
 
 If **CAT** is coded as **XZG** using reverse alphabet positions, how will **FISH** be coded?
 
@@ -209,7 +207,7 @@ If **CAT** is coded as **XZG** using reverse alphabet positions, how will **FISH
 
 ---
 
-**### Question 20**
+### Question 20
 
 If a word is coded by writing its letters in reverse order, how will **SCHOOL** be coded?
 
@@ -220,7 +218,7 @@ If a word is coded by writing its letters in reverse order, how will **SCHOOL** 
 
 ---
 
-**### Question 21**
+### Question 21
 
 In a certain code, **MOTHER** is written as **OMHTRE**, where each pair of adjacent letters is interchanged. How will **SCHOOL** be written?
 
@@ -231,7 +229,7 @@ In a certain code, **MOTHER** is written as **OMHTRE**, where each pair of adjac
 
 ---
 
-**### Question 22**
+### Question 22
 
 If **TABLE** is coded as **UBCMF**, how will **CHAIR** be coded using the same rule?
 
@@ -242,7 +240,7 @@ If **TABLE** is coded as **UBCMF**, how will **CHAIR** be coded using the same r
 
 ---
 
-**### Question 23**
+### Question 23
 
 In a certain code, **APPLE** is written as **50** and **MANGO** is written as **50**. The code is obtained by adding the alphabetical positions of all letters. What is the code for **GRAPE**?
 
@@ -253,7 +251,7 @@ In a certain code, **APPLE** is written as **50** and **MANGO** is written as **
 
 ---
 
-**### Question 24**
+### Question 24
 
 If **DOG = 26** and **CAT = 24**, where the code is the sum of the alphabetical positions of the letters, what is the code for **FROG**?
 
@@ -264,7 +262,7 @@ If **DOG = 26** and **CAT = 24**, where the code is the sum of the alphabetical 
 
 ---
 
-**### Question 25**
+### Question 25
 
 In a certain code, **PAPER** is written as **QBQFS**. Which of the following words will be coded as **DPNF**?
 
@@ -275,7 +273,7 @@ In a certain code, **PAPER** is written as **QBQFS**. Which of the following wor
 
 ---
 
-**## Answer Key**
+## Answer Key
 
 | Question | Answer |
 |---|---|
