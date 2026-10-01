@@ -1,6 +1,6 @@
-**## Blood Relations - Practice Questions**
+## Blood Relations - Practice Questions
 
-**### Question 1**
+### Question 1
 
 Pointing to a boy, A said, “He is the son of the only daughter of my father.” How is the boy related to A?
 
@@ -11,7 +11,7 @@ Pointing to a boy, A said, “He is the son of the only daughter of my father.�
 
 ---
 
-**### Question 2**
+### Question 2
 
 A is the sister of B. C is the father of A. D is the mother of C. How is D related to B?
 
@@ -22,7 +22,7 @@ A is the sister of B. C is the father of A. D is the mother of C. How is D relat
 
 ---
 
-**### Question 3**
+### Question 3
 
 Introducing a man, A said, “His mother is the wife of my father’s only son.” How is the man related to A?
 
@@ -33,7 +33,7 @@ Introducing a man, A said, “His mother is the wife of my father’s only son.�
 
 ---
 
-**### Question 4**
+### Question 4
 
 P is the brother of Q. Q is the daughter of R. S is the mother of R. How is S related to P?
 
@@ -44,7 +44,7 @@ P is the brother of Q. Q is the daughter of R. S is the mother of R. How is S re
 
 ---
 
-**### Question 5**
+### Question 5
 
 A is the daughter of B. C is the brother of B. D is the daughter of C. How is D related to A?
 
@@ -55,7 +55,7 @@ A is the daughter of B. C is the brother of B. D is the daughter of C. How is D 
 
 ---
 
-**### Question 6**
+### Question 6
 
 If A%B means A is the sister of B, A#B means A is the father of B, and A@B means A is the son of B, which relationship is represented by P#Q%B?
 
@@ -66,7 +66,7 @@ If A%B means A is the sister of B, A#B means A is the father of B, and A@B means
 
 ---
 
-**### Question 7**
+### Question 7
 
 A is the only son of B. C is the sister of B. D is the daughter of C. How is D related to A?
 
@@ -77,7 +77,7 @@ A is the only son of B. C is the sister of B. D is the daughter of C. How is D r
 
 ---
 
-**### Question 8**
+### Question 8
 
 Pointing towards a girl, B said, “She is the daughter of the only son of my mother.” How is the girl related to B?
 
@@ -88,7 +88,7 @@ Pointing towards a girl, B said, “She is the daughter of the only son of my mo
 
 ---
 
-**### Question 9**
+### Question 9
 
 M is the brother of N. N is the mother of P. Q is the father of M. How is Q related to P?
 
@@ -99,7 +99,7 @@ M is the brother of N. N is the mother of P. Q is the father of M. How is Q rela
 
 ---
 
-**### Question 10**
+### Question 10
 
 A is married to B. C is the brother of B. D is the daughter of C. How is D related to A?
 
@@ -110,7 +110,7 @@ A is married to B. C is the brother of B. D is the daughter of C. How is D relat
 
 ---
 
-**### Question 11**
+### Question 11
 
 A, B, C and D are members of a family. A is the father of B. C is the sister of B. D is the mother of A. How is D related to C?
 
@@ -121,7 +121,7 @@ A, B, C and D are members of a family. A is the father of B. C is the sister of 
 
 ---
 
-**### Question 12**
+### Question 12
 
 P is the son of Q. R is the daughter of Q. S is the brother of Q. T is the daughter of S. How is T related to P?
 
@@ -132,7 +132,7 @@ P is the son of Q. R is the daughter of Q. S is the brother of Q. T is the daugh
 
 ---
 
-**### Question 13**
+### Question 13
 
 A is the brother of B. B is married to C. D is the daughter of C. E is the son of A. How is E related to D?
 
@@ -143,7 +143,7 @@ A is the brother of B. B is married to C. D is the daughter of C. E is the son o
 
 ---
 
-**### Question 14**
+### Question 14
 
 X is the daughter of Y. Z is the brother of Y. P is the son of Z. Q is the daughter of P. How is Q related to X?
 
@@ -154,7 +154,7 @@ X is the daughter of Y. Z is the brother of Y. P is the son of Z. Q is the daugh
 
 ---
 
-**### Question 15**
+### Question 15
 
 A is the mother of B and C. B is the brother of D. C is the sister of D. How is A related to D?
 
@@ -165,7 +165,7 @@ A is the mother of B and C. B is the brother of D. C is the sister of D. How is 
 
 ---
 
-**### Question 16**
+### Question 16
 
 Pointing to a photograph, A said, “The man in the photograph is the father of my mother’s only daughter.” How is the man related to A?
 
@@ -176,7 +176,7 @@ Pointing to a photograph, A said, “The man in the photograph is the father of 
 
 ---
 
-**### Question 17**
+### Question 17
 
 R is the daughter of S. T is the son of S. U is the father of S. V is the daughter of U. How is V related to R?
 
@@ -187,7 +187,7 @@ R is the daughter of S. T is the son of S. U is the father of S. V is the daught
 
 ---
 
-**### Question 18**
+### Question 18
 
 A is the father of B. C is the mother of D. B is the brother of D. E is the daughter of B. How is C related to E?
 
@@ -198,7 +198,7 @@ A is the father of B. C is the mother of D. B is the brother of D. E is the daug
 
 ---
 
-**### Question 19**
+### Question 19
 
 If A$B means A is the mother of B, A%B means A is the brother of B, and A#B means A is the daughter of B, what is the relationship represented by M$N%P?
 
@@ -209,7 +209,7 @@ If A$B means A is the mother of B, A%B means A is the brother of B, and A#B mean
 
 ---
 
-**### Question 20**
+### Question 20
 
 A and B are married. C is the mother of A. D is the father of B. E is the daughter of A and B. How is C related to E?
 
@@ -220,7 +220,7 @@ A and B are married. C is the mother of A. D is the father of B. E is the daught
 
 ---
 
-**### Question 21**
+### Question 21
 
 P is the brother of Q. R is the wife of P. S is the daughter of Q. How is R related to S?
 
@@ -231,7 +231,7 @@ P is the brother of Q. R is the wife of P. S is the daughter of Q. How is R rela
 
 ---
 
-**### Question 22**
+### Question 22
 
 A is the father of B. C is the wife of A. D is the brother of B. E is the daughter of D. How is C related to E?
 
@@ -242,7 +242,7 @@ A is the father of B. C is the wife of A. D is the brother of B. E is the daught
 
 ---
 
-**### Question 23**
+### Question 23
 
 K is the daughter of L. M is the son of L’s brother. N is the daughter of M. How is N related to K?
 
@@ -253,7 +253,7 @@ K is the daughter of L. M is the son of L’s brother. N is the daughter of M. H
 
 ---
 
-**### Question 24**
+### Question 24
 
 A is the son of B. C is the daughter of D. B is the brother of D. E is the daughter of C. How is E related to A?
 
@@ -264,7 +264,7 @@ A is the son of B. C is the daughter of D. B is the brother of D. E is the daugh
 
 ---
 
-**### Question 25**
+### Question 25
 
 A family consists of P, Q, R, S, T and U. P is the father of Q. R is the mother of Q. S is the sister of Q. T is the husband of S. U is the son of S. How is T related to P?
 
@@ -275,7 +275,7 @@ A family consists of P, Q, R, S, T and U. P is the father of Q. R is the mother 
 
 ---
 
-**## Answer Key**
+## Answer Key
 
 | Question | Answer |
 |---|---|
