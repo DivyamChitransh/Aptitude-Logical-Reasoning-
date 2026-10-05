@@ -1,6 +1,6 @@
 ### Question 1
 
-Introducing a woman, A said, “Her husband is the only son of my father.” How is the woman related to A?
+Pointing to a photograph, a man says, "She is the daughter of my grandfather's only son." How is she related to the man?
 
 * a) Sister
 * b) Wife
@@ -11,194 +11,106 @@ Introducing a woman, A said, “Her husband is the only son of my father.” How
 
 ### Question 2
 
-A and B are the children of C. If C is the father of A but B is not the son of C, what is the relationship between B and C?
+A introduces B as "the son of my mother's only brother." How is B related to A?
 
-* a) Daughter
-* b) Son
-* c) Sister
-* d) Brother
+* a) Nephew
+* b) Cousin
+* c) Brother
+* d) Uncle
 
 ---
 
 ### Question 3
 
-If A#B means A is the father of B, A*B means A is the brother of B, and A@B means A is the mother of B, which of the following is correct about G@T#P?
-
-* a) G is the mother of P
-* b) P is the father of T
-* c) T is the son of G
-* d) P is the brother of T
-
----
-
-### Question 4
-
-R is the son of A’s father’s sister. How is R related to A?
-
-* a) Brother
-* b) Cousin
-* c) Uncle
-* d) Nephew
-
----
-
-### Question 5
-
-A is the brother of B. B is the mother of C. D is the son of A. How is D related to C?
-
-* a) Brother
-* b) Cousin
-* c) Uncle
-* d) Nephew
-
----
-
-### Question 6
-
-A is married to B. B is the sister of C. C is married to D. How is D related to A?
-
-* a) Brother
-* b) Brother-in-law
-* c) Sister-in-law
-* d) Cousin
-
----
-
-### Question 7
-
-Pointing to a man, A said, “His mother is the only daughter of my mother’s mother.” How is the man related to A?
-
-* a) Brother
-* b) Cousin
-* c) Uncle
-* d) Nephew
-
----
-
-### Question 8
-
-P is the son of Q’s father’s sister. R is the daughter of Q’s mother’s brother. How is P related to R?
-
-* a) Brother
-* b) Cousin
-* c) Uncle
-* d) Nephew
-
----
-
-### Question 9
-
-A’s son is married to B. C is the daughter of A’s daughter. How is B related to C?
-
-* a) Aunt
-* b) Uncle
-* c) Cousin
-* d) Sister
-
----
-
-### Question 10
-
-A is the daughter of B’s brother. C is the son of B’s sister. How is A related to C?
-
-* a) Sister
-* b) Cousin
-* c) Aunt
-* d) Niece
-
----
-
-### Question 11
-
-K is the son of A’s mother’s sister. Q is the daughter of D, who is the father of G and grandfather of A. P is the daughter of H, who is the grandmother of K. D is the husband of H and G is the husband of L. How is P related to Q?
-
-* a) Sister
-* b) Cousin
-* c) Daughter
-* d) Aunt
-
----
-
-### Question 12
-
-R is the son of A’s father’s sister. S is the son of D, who is the mother of G and grandmother of A. H is the father of T and grandfather of R. D is the wife of H. How is R related to D?
+Pointing to a boy, a woman says, "He is the son of my husband's sister." How is the boy related to the woman?
 
 * a) Son
-* b) Grandson
+* b) Cousin
 * c) Nephew
 * d) Brother
 
 ---
 
-### Question 13
+### Question 4
 
-Q’s mother is the sister of P and the daughter of S. A is the son of P and brother of H. G is the father of H. How is S related to G?
+A is the father of B. D is the wife of A. C is the son of D. How is C related to A?
 
 * a) Nephew
-* b) Son-in-law
-* c) Grandfather
-* d) Father-in-law
+* b) Cousin
+* c) Brother
+* d) Son
 
 ---
 
-### Question 14
+### Question 5
 
-A is the son of B’s mother’s sister. C is the daughter of D, who is the father of E and grandfather of A. F is the wife of D. E is the husband of G. How is C related to A?
+P is the mother of Q. R is the father of Q. S is the sister of R. How is S related to P?
 
-* a) Aunt
-* b) Sister
-* c) Cousin
+* a) Sister
+* b) Aunt
+* c) Sister-in-law
 * d) Mother
 
 ---
 
-### Question 15
+### Question 6
 
-P is the daughter of Q, and Q is the brother of R. S is the son of R and T is the daughter of S. U is the husband of Q. V is the mother of R. How is T related to P?
+C is the father of A. D is the mother of B. A is the brother of B, and C and D are husband and wife. How is C related to D's brother's son?
 
-* a) Sister
-* b) Cousin
-* c) Niece
+* a) Father
+* b) Uncle
+* c) Brother
+* d) Nephew
+
+---
+
+### Question 7
+
+X is the son of Y. Y is the daughter of Z, and Z is male. How is X related to Z?
+
+* a) Son
+* b) Nephew
+* c) Grandson
+* d) Cousin
+
+---
+
+### Question 8
+
+M is the wife of N. N's father is O. How is M related to O?
+
+* a) Sister-in-law
+* b) Mother-in-law
+* c) Daughter-in-law
 * d) Aunt
 
 ---
 
-### Question 16
+### Question 9
 
-A is the son of B’s sister. C is the daughter of D, who is the brother of B. E is the father of B and D. F is the mother of E. How is A related to C?
+P is the brother of Q. Q is married to R. How is P related to R?
 
-* a) Brother
-* b) Cousin
+* a) Cousin
+* b) Brother-in-law
 * c) Uncle
 * d) Nephew
 
 ---
 
-### Question 17
+### Question 10
 
-M is the daughter of N, and N is the son of P. Q is the daughter of P’s daughter. R is the husband of Q and S is their son. How is M related to S?
+A is the daughter of B. B is the son of C, and C is female. How is A related to C?
 
-* a) Sister
-* b) Aunt
-* c) Cousin
-* d) Mother
-
----
-
-### Question 18
-
-X is the son of Y’s sister. Z is the daughter of Y’s brother. P is the father of Y and Q. R is the son of Q. How is R related to X?
-
-* a) Brother
-* b) Cousin
-* c) Uncle
-* d) Nephew
+* a) Daughter
+* b) Niece
+* c) Granddaughter
+* d) Cousin
 
 ---
 
-### Question 19
+### Question 11
 
-A is the daughter of B’s brother. C is the son of B’s sister. D is the father of B. E is the mother of D. How is A related to C?
+R is the only daughter of S. S is the father of T. How is R related to T?
 
 * a) Sister
 * b) Cousin
@@ -207,69 +119,157 @@ A is the daughter of B’s brother. C is the son of B’s sister. D is the fathe
 
 ---
 
-### Question 20
+### Question 12
 
-P is the son of Q’s sister. R is the daughter of S, who is the brother of Q. T is the father of Q and S. U is the mother of T. How is P related to R?
+A is the sister of B. B is the son of C. D is the husband of C. How is D related to A?
+
+* a) Uncle
+* b) Father
+* c) Brother
+* d) Grandfather
+
+---
+
+### Question 13
+
+K's father is the brother of L's mother. How is K related to L?
 
 * a) Brother
-* b) Cousin
+* b) Nephew
+* c) Cousin
+* d) Uncle
+
+---
+
+### Question 14
+
+A is the mother of B. C is the brother of A. How is C related to B?
+
+* a) Father
+* b) Brother
 * c) Uncle
+* d) Cousin
+
+---
+
+### Question 15
+
+P is the daughter of Q. R is the brother of Q. How is P related to R?
+
+* a) Niece
+* b) Cousin
+* c) Aunt
+* d) Sister
+
+---
+
+### Question 16
+
+M is the son of N. N is the wife of O. How is M related to O?
+
+* a) Nephew
+* b) Son
+* c) Cousin
+* d) Grandson
+
+---
+
+### Question 17
+
+A is the paternal grandfather of B. C is the father of B. How is A related to C?
+
+* a) Grandfather
+* b) Father
+* c) Uncle
+* d) Brother
+
+---
+
+### Question 18
+
+X is the maternal uncle of Y. Z is the father of Y. How is X related to Z?
+
+* a) Uncle
+* b) Brother-in-law
+* c) Father-in-law
+* d) Cousin
+
+---
+
+### Question 19
+
+A is the daughter of C. C is the son of B. D is the sister of C. How is D related to A?
+
+* a) Sister
+* b) Mother
+* c) Aunt
+* d) Cousin
+
+---
+
+### Question 20
+
+A is the husband of B. B's mother is C. How is A related to C?
+
+* a) Brother-in-law
+* b) Father-in-law
+* c) Son-in-law
 * d) Nephew
 
 ---
 
 ### Question 21
 
-A is the son of B’s father’s sister. C is the daughter of D, who is the sister of B. E is the father of B and D. F is the wife of E. How is C related to A?
+P is the son of Q. Q's father is R. How is R related to P?
 
-* a) Sister
-* b) Cousin
-* c) Aunt
-* d) Niece
+* a) Father
+* b) Uncle
+* c) Grandfather
+* d) Brother
 
 ---
 
 ### Question 22
 
-P is the daughter of Q’s brother. R is the son of S, who is the sister of Q. T is the father of Q and S. U is the mother of T. How is P related to R?
+M is the daughter of P. P's mother is Q. How is M related to Q?
 
-* a) Sister
-* b) Cousin
-* c) Aunt
-* d) Niece
+* a) Daughter
+* b) Granddaughter
+* c) Niece
+* d) Cousin
 
 ---
 
 ### Question 23
 
-A is the son of B’s sister. C is the daughter of D, who is the brother of B. E is the father of B and D. F is the mother of E. How is F related to A?
+N is the daughter of M. M's brother is O. How is N related to O?
 
-* a) Mother
-* b) Grandmother
+* a) Cousin
+* b) Niece
 * c) Aunt
-* d) Great-grandmother
+* d) Sister
 
 ---
 
 ### Question 24
 
-K is the daughter of L’s brother. M is the son of N, who is the sister of L. P is the father of L and N. Q is the mother of P. How is K related to M?
+D is the son of E. E's father is F. How is D related to F?
 
-* a) Sister
-* b) Cousin
-* c) Aunt
-* d) Niece
+* a) Son
+* b) Nephew
+* c) Grandson
+* d) Cousin
 
 ---
 
 ### Question 25
 
-A is the daughter of B’s brother. C is the son of D, who is the sister of B. E is the father of B and D. F is the daughter of E. How is F related to A?
+G is the sister of H. H's son is I. How is G related to I?
 
 * a) Mother
-* b) Aunt
-* c) Grandmother
-* d) Sister
+* b) Sister
+* c) Aunt
+* d) Cousin
 
 ---
 
@@ -278,27 +278,27 @@ A is the daughter of B’s brother. C is the son of D, who is the sister of B. E
 | Question | Answer |
 |---|---|
 | Q1 | **a) Sister** |
-| Q2 | **a) Daughter** |
-| Q3 | **a) G is the mother of P** |
-| Q4 | **b) Cousin** |
-| Q5 | **b) Cousin** |
-| Q6 | **b) Brother-in-law** |
-| Q7 | **a) Brother** |
-| Q8 | **b) Cousin** |
-| Q9 | **a) Aunt** |
-| Q10 | **b) Cousin** |
-| Q11 | **b) Cousin** |
-| Q12 | **b) Grandson** |
-| Q13 | **d) Father-in-law** |
-| Q14 | **c) Cousin** |
-| Q15 | **b) Cousin** |
-| Q16 | **b) Cousin** |
-| Q17 | **c) Cousin** |
-| Q18 | **b) Cousin** |
-| Q19 | **b) Cousin** |
-| Q20 | **b) Cousin** |
-| Q21 | **b) Cousin** |
-| Q22 | **b) Cousin** |
-| Q23 | **d) Great-grandmother** |
-| Q24 | **b) Cousin** |
-| Q25 | **b) Aunt** |
+| Q2 | **b) Cousin** |
+| Q3 | **c) Nephew** |
+| Q4 | **d) Son** |
+| Q5 | **c) Sister-in-law** |
+| Q6 | **b) Uncle** |
+| Q7 | **c) Grandson** |
+| Q8 | **c) Daughter-in-law** |
+| Q9 | **b) Brother-in-law** |
+| Q10 | **c) Granddaughter** |
+| Q11 | **a) Sister** |
+| Q12 | **b) Father** |
+| Q13 | **c) Cousin** |
+| Q14 | **c) Uncle** |
+| Q15 | **a) Niece** |
+| Q16 | **b) Son** |
+| Q17 | **b) Father** |
+| Q18 | **b) Brother-in-law** |
+| Q19 | **c) Aunt** |
+| Q20 | **c) Son-in-law** |
+| Q21 | **c) Grandfather** |
+| Q22 | **b) Granddaughter** |
+| Q23 | **b) Niece** |
+| Q24 | **c) Grandson** |
+| Q25 | **c) Aunt** |
